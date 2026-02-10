@@ -2,14 +2,11 @@
 
 Estudante de Engenharia de Software (5º período), com interesse em Tecnologia da Informação aplicada ao negócio, automações em Python e uso de banco de dados SQL.
 
-Busco oportunidade de estágio em TI, atuando com suporte técnico, dados e desenvolvimento de soluções que otimizem processos.
-
 ## Tecnologias
 - Python
 - SQL / PostgreSQL
 - Java
 - C
-- Git & GitHub
 - Lógica de Programação
 
 ## Projetos em destaque
