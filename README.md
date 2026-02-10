@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Gabryelle Gomes Lima
 
-<!--
-**GabryelleLima-code/GabryelleLima-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software (5º período), com interesse em Tecnologia da Informação aplicada ao negócio, automações em Python e uso de banco de dados SQL.
 
-Here are some ideas to get you started:
+🎯 Busco oportunidade de estágio em TI, atuando com suporte técnico, dados e desenvolvimento de soluções que otimizem processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- SQL / PostgreSQL
+- Java
+- C
+- Git & GitHub
+- Lógica de Programação
+
+## 📂 Projetos em destaque
+- Sistema de Biblioteca (Java + PostgreSQL)
+- Sistema de Condomínio (Banco de Dados)
+- Automações simples em Python
+
+📫 **Contato**
+- Email: gabryelleglima@gmail.com
+- LinkedIn: www.linkedin.com/in/gabryelle-gomes-lima-8969a21a8
