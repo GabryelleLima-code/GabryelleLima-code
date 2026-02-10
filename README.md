@@ -4,7 +4,7 @@ Estudante de Engenharia de Software (5º período), com interesse em Tecnologia 
 
 Busco oportunidade de estágio em TI, atuando com suporte técnico, dados e desenvolvimento de soluções que otimizem processos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python
 - SQL / PostgreSQL
 - Java
